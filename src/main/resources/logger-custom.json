@@ -1,0 +1,23 @@
+{
+	"appName": "CustomerService",
+	"lob": "PLANS",
+	"enableLogsInInterceptor": true,
+	"logDisplayOrder": [
+		"LOB",
+		"APP",
+		"REQ_SIZE",
+		"RESP_SIZE",
+		"REFERRER",
+		"SOURCE_IP",
+		"DESTINATION_IP",
+		"USER-AGENT",
+		"USER_EMAIL",
+		"ACTIVITY_ID",
+		"SERVICE_URL",
+		"CONTAINER_ID",
+		"IMAGE_ID",
+		"ENVIRORMENT",
+		"RESPCODE",
+		"RESPTIME"
+	]
+}
